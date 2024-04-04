@@ -6,3 +6,5 @@ red.
 Violets
 are
 blue.
+These are the colours of the rainbow.
+And the unicorn.
