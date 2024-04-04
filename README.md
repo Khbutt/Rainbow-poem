@@ -8,3 +8,4 @@ are
 blue.
 These are the colours of the rainbow.
 And the unicorn.
+Both have magic
