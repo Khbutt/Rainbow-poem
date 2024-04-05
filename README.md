@@ -1,6 +1,7 @@
 # Rainbow-poem
 Today is Earth Day.
 This is a rainbow poem
+The colour representing Earth Day is green.
 Rainbows
 are
 red.
